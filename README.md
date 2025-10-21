@@ -43,8 +43,10 @@ This project predicts customer churn using machine learning models. It includes 
    * Monthly charges, tenure, and customer service calls vs churn
 
 ---
+pdf link : https://drive.google.com/file/d/1OoSteePkrppLvPvC8B79myYiCFpfWMu2/view?usp=drive_link
 
 ## 📦 Requirements
+
 
 ```bash
 pip install pandas numpy seaborn matplotlib scikit-learn xgboost
